@@ -1,6 +1,5 @@
 # SpaceX-Falcon-9-1st-stage-Success-Landing-Prediction
 Predict whether the SpaceX Falcon 9 first stage will successfully land after a rocket launch.
-# SpaceX Falcon-9 Success Landing Prediction
 
 ## Overview
 This project aims to predict whether the first stage of SpaceX's Falcon 9 rocket will land successfully after launch. SpaceX advertises Falcon 9 rocket launches on its website at a cost of $62 million, while other providers charge upwards of $165 million per launch. The significant savings are largely due to SpaceX's ability to reuse the first stage. By predicting the landing success, we can estimate the cost of a launch, which is useful for companies competing with SpaceX.
